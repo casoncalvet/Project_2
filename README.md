@@ -1,7 +1,8 @@
 # <div align="center"> Is The Norwegian Nobel Committee Biased? 
-##<div align="center">  Analyzing Nobel Prize Winners 
+## <div align="center">  Analyzing Nobel Prize Winners 
 ### <div align="center"> (1901-2022)
 <br/><br/>
+
 #### Hypothesis I: Women have been discriminated against historically and therefore, will be underrepresented among Nobel Prize laureates. 
 #### Hypothesis II: The women who have been awarded the Nobel Prize are most represented in the categories of Peace and Literature due to suppression in other fields. 
 <br/><br/>

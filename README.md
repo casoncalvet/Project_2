@@ -56,7 +56,8 @@
 
 "But women do have equality in developed countries!"
 
-![top10](./images/top110.png)
+![idk](./images/Top110.png)
+
 
 ### The top 10 Nobel Winning Countries also have the highest Gender Development Indexes
 ###### (even Norway has a GDI of 1)

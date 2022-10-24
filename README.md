@@ -11,18 +11,26 @@
 <div align="center"> Female laureates are most often awarded for work in Literature and Peace, while males are more often awarded for Medicine, Chemistry, and Physics. 
 
 <br/><br/>
-####We can explore the individual laureates here: 
+
+#### We can explore the individual laureates here: 
 [Female Laureates](./images/FemaleLaureates.html)
+<br/>
+
 [Male Laureates](./images/MaleLaureates.html)
-<br/><br/>
-##### What exactly is the disparity between Male and Female Laureates?   
+<br/><br/> 
+
+##### What exactly is the disparity between Male and Female Laureates? 
+
 ![Bar plot](./images/Barplot.png)
 <br/><br/>
+
 ![women](./images/women.gif)
+
 ###### basically, 
 # YES
 <br/><br/>
-######Hypothesis III: Women are underrepresented in Nobel Prize Categories because they are discriminated against in the workforce. 
+
+###### Hypothesis III: Women are underrepresented in Nobel Prize Categories because they are discriminated against in the workforce. 
 
 ![BarGDI](./images/BarplotGDI.png)
 ######GDI: measures the gender gap in human development achievements by accounting for disparities between women and men in 3 parameters of human development (HDI): longevity, knowledge, and standard of living. The ratio is calculated as female HDI to male HDI, with 5 being the lowest and 1 being the highest. 
@@ -32,11 +40,14 @@
 
 ![letmein](./images/letmein.gif)
 <br/><br/>
+
 ## It must be more inclusive now though, right? 
 <br/><br/>
 <br/><br/>
+
 ![scatter](./images/NobelPrizesYears.png)
-######(emphasis on "more"...)
+
+###### (emphasis on "more"...)
 <br/><br/>
 
 ![handmaid](./images/handmaid.gif)
@@ -46,7 +57,7 @@
 
 ![top10](./images/top10.png)
 ### The top 10 Nobel Winning Countries also have the highest Gender Development Indexes
-######(even Norway has a GDI of 1)
+###### (even Norway has a GDI of 1)
 ##### So, why haven't they awarded more women?
 
 ![sus](./images/suspicious.gif)

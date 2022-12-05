@@ -34,10 +34,13 @@
 ###### Hypothesis III: Women are underrepresented in Nobel Prize Categories because they are discriminated against in the workforce. 
 
 ![BarGDI](./images/BarplotGDI.png)
-######GDI: measures the gender gap in human development achievements by accounting for disparities between women and men in 3 parameters of human development (HDI): longevity, knowledge, and standard of living. The ratio is calculated as female HDI to male HDI, with 5 being the lowest and 1 being the highest. 
+###### GDI: measures the gender gap in human development achievements by accounting for disparities between women and men in 3 parameters of human development (HDI): longevity, knowledge, and standard of living. The ratio is calculated as female HDI to male HDI, with 5 being the lowest and 1 being the highest. 
+<br/><br/>
+
 ![ratio](./images/FMRatio.png)
 #### Even in countries where the Gender Development Index is highest, women only make up to 40% the salary of male counterparts. 
 ##### 
+<br/><br/>
 
 ![letmein](./images/letmein.gif)
 <br/><br/>
